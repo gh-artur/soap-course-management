@@ -1,0 +1,7 @@
+XML Structure
+Definindo a estrutura inicial de como serão os Requests e Responses do WebService
+
+
+GetCourseDetailsRequest -> GetCourseDetailsResponse
+input -> id -123
+output -> detalhes do curso com id do input
